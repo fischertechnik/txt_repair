@@ -2,7 +2,8 @@
 
 # TXT Repair Batch Files (>= 4.4.3)
 This repository contains batch files to repair the TXT firmware.
-DO ONLY USE THIS BATCH FILES, IF THE TXT FIRMWARE IS DEFECTIVE!
+
+> **DO ONLY USE THIS BATCH FILES, IF THE TXT FIRMWARE IS DEFECTIVE!**
 
 ## First Steps
 - Download and unzip [txt_repair](https://github.com/fischertechnikGmbH/txt_repair/archive/master.zip) to you Windows computer
