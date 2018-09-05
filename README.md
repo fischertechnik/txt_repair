@@ -12,7 +12,7 @@ This repository contains batch files to repair the TXT firmware.
 
 ## Problems
 ### Problem "Angehalten" or "Stopped"
-- After Update with ROBOPro 4.4.3 the interface test shows "Angehalten" or Stoped" in the window:
+- After update with ROBOPro 4.4.3 the interface test shows "Angehalten" or Stopped" in the window:
 
 ![interfacetest](docs/interfacetest.PNG)
 
