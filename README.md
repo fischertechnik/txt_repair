@@ -12,7 +12,7 @@ This repository contains batch files to repair the TXT firmware.
 - Execute corresponding batch file(s), which are in solution section
 
 ## Problems
-- [Problem after update with ROBOPro 4.4.3](docs/FwUpdTxt.md)
+- [Problem after update with ROBOPro 4.4.3 "Stopped" in Test Interface Window](docs/FwUpdTxt.md)
 - [Problem during update Phase1, Phase2 and Phase3](docs/Txt424RandomRootPw.md)
 
 
@@ -20,4 +20,10 @@ This repository contains batch files to repair the TXT firmware.
 
 **0_new_root.bat**: Create and Show root password on TXT display
 
-**1_repair_FwUpdTxt**: Repair Motor IO Firmware
+**1_repair_FwUpdTxt.bat**: Repair Motor IO Firmware
+
+**Disable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 disable root password on display
+
+**Enable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 enable root password on display
+
+**New_Random_Root_Pw.bat**: In TXT firmware <= 4.2.4 generate new random root password
