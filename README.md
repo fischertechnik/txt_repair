@@ -12,8 +12,8 @@ This repository contains batch files to repair the TXT firmware.
 - Execute corresponding batch file(s), which are in solution section
 
 ## Problems
-- [Problem after update with ROBOPro 4.4.3 "Stopped" in Test Interface Window](docs/FwUpdTxt.md)
-- [Problem during update Phase1, Phase2 and Phase3](docs/Txt424RandomRootPw.md)
+- [Problem after update with ROBOPro 4.4.3 "Stopped" or "Angehalten" in Test Interface Window](docs/FwUpdTxt.md)
+- [Problem during update to 4.4.3 Phase1, Phase2 and Phase3 errors](docs/Txt424RandomRootPw.md)
 
 
 ## Batch Files
