@@ -7,7 +7,7 @@ This repository contains batch files to repair the TXT firmware.
 
 ## First Steps
 - Download and unzip [txt_repair](https://github.com/fischertechnikGmbH/txt_repair/archive/master.zip) to your Windows computer
-- Switch on your TXT Controller and connect it to your PC via USB.
+- Switch on your TXT Controller and connect it to your computer via USB.
 - Select the coresponding problem
 - Execute corresponding batch file(s), which are in solution section
 
