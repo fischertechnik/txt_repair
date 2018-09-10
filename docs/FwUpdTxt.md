@@ -1,4 +1,4 @@
-# Problem "Angehalten" or "Stopped"
+# Problem after update with ROBOPro 4.4.3 "Stopped" or "Angehalten" in Test Interface Window
 After update with ROBOPro 4.4.3
 - TXT role "Extension" does not work (green LED does not light up)
 - the interface test shows "Angehalten" or Stopped" in the window:
