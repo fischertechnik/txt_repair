@@ -27,3 +27,4 @@ This repository contains batch files to repair the TXT firmware.
 **Enable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 enable root password on display
 
 **New_Random_Root_Pw.bat**: In TXT firmware <= 4.2.4 generate new random root password
+
