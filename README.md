@@ -7,11 +7,14 @@ This repository contains batch files to repair the TXT firmware.
 
 ## First Steps
 - Download and unzip [txt_repair](https://github.com/fischertechnikGmbH/txt_repair/archive/master.zip) to your Windows computer
-- Connect the TXT controller via USB and power on the TXT controller
-- Execute corresponding batch file(s) 
+- Switch on your TXT Controller and connect it to your PC via USB.
+- Select the coresponding problem
+- Execute corresponding batch file(s), which are in solution section
 
-## Issues
-[Problem with MotorIO Firmware after update with ROBOPro 4.4.3](docs/FwUpdTxt.md)
+## Problems
+- [Problem after update with ROBOPro 4.4.3](docs/FwUpdTxt.md)
+- [Problem during update Phase1, Phase2 and Phase3](docs/Txt424RandomRootPw.md)
+
 
 ## Batch Files
 
