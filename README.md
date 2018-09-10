@@ -14,5 +14,7 @@ This repository contains batch files to repair the TXT firmware.
 [Problem with MotorIO Firmware after update with ROBOPro 4.4.3](docs/FwUpdTxt.md)
 
 ## Batch Files
+
 **0_new_root.bat**: Create and Show root password on TXT display
+
 **1_repair_FwUpdTxt**: Repair Motor IO Firmware
