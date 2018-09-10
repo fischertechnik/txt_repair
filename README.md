@@ -11,10 +11,12 @@ This repository contains batch files to repair the TXT firmware.
 - Execute corresponding batch file(s) 
 
 ## Problems
-### Problem "Angehalten" or "Stopped"
-- TXT role "Extension" does not work (green LED does not light up)
-- After update with ROBOPro 4.4.3 the interface test shows "Angehalten" or Stopped" in the window:
+[Problem with MotorIO Firmware after update with ROBOPro 4.4.3](docs/FwUpdTxt.md)
 
+### Problem "Angehalten" or "Stopped"
+After update with ROBOPro 4.4.3
+- TXT role "Extension" does not work (green LED does not light up)
+- the interface test shows "Angehalten" or Stopped" in the window:
 ![interfacetest](docs/interfacetest.PNG)
 
 #### Solution
@@ -22,8 +24,5 @@ This repository contains batch files to repair the TXT firmware.
 2. Execute 1_repair_FwUpdTxt.bat to repair IO firmware of TXT controller
 
 ## Batch Files
-### 0_new_root.bat
-Create and Show root password on TXT display
-
-### 1_repair_FwUpdTxt
-Repair Motor IO Firmware
+**0_new_root.bat**: Create and Show root password on TXT display
+**1_repair_FwUpdTxt**: Repair Motor IO Firmware
