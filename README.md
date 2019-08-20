@@ -18,14 +18,19 @@ This repository contains batch files to repair the TXT firmware.
 
 ## Batch Files
 
-**0_new_root.bat**: Create and Show root password on TXT display
-**1_repair_FwUpdTxt.bat**: Repair Motor IO Firmware
+> **0_new_root.bat**: Create and Show root password on TXT display
+>
+> **1_repair_FwUpdTxt.bat**: Repair Motor IO Firmware
 
-**Delete_all_user_c_programs.bat**: Delete all programs in /opt/knobloch/C-Program folder
-**Delete_all_user_scratch_programs.bat**: Delete all programs in /opt/knobloch/Scratch folder
-**Delete_all_user_ROBOPro_programs.bat**: Delete all programs in /opt/knobloch/ROBOPro folder
+> **Delete_all_user_c_programs.bat**: Delete all programs in /opt/knobloch/C-Program folder
+>
+> **Delete_all_user_scratch_programs.bat**: Delete all programs in /opt/knobloch/Scratch folder
+>
+> **Delete_all_user_ROBOPro_programs.bat**: Delete all programs in /opt/knobloch/ROBOPro folder
 
-**Disable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 disable root password on display
-**Enable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 enable root password on display
-**New_Random_Root_Pw.bat**: In TXT firmware <= 4.2.4 generate new random root password
 
+> **Disable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 disable root password on display
+>
+> **Enable_Root_Pw_Display.bat**: In TXT firmware <= 4.2.4 enable root password on display
+>
+> **New_Random_Root_Pw.bat**: In TXT firmware <= 4.2.4 generate new random root password
