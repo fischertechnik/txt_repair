@@ -1,9 +1,10 @@
-# Problem after update with ROBOPro 4.4.3 "Stopped" or "Angehalten" in Test Interface Window
-After update with ROBOPro 4.4.3
+# Problem after update with ROBOPro >=4.4.3 "Stopped" or "Angehalten" in Test Interface Window
+After update with ROBOPro >=4.4.3
 - TXT role "Extension" does not work (green LED does not light up)
 - the interface test shows "Angehalten" or Stopped" in the window:
 ![interfacetest](interfacetest.PNG)
 ![interfacetest](interfacetest_en.PNG)
+![TXT Display](TXT_Update_10_11.png)
 
 # Solution
 0. If TXT version >=4.4.4, please activate SSH in the settings of TXT controller: settings -> Arrow down -> Security -> SSH Daemon ON
