@@ -8,9 +8,7 @@ After update with ROBOPro >=4.4.3
 
 # Solution
 Repair Steps
-1. If TXT firmware version >=4.4.4, please activate SSH in the settings of TXT controller
-
-`Settings -> Arrow down -> Security -> SSH Daemon` **-> ON**
+1. If the TXT firmware version >=4.4.4, activate SSH in the settings of TXT controller `Settings -> Arrow down -> Security -> SSH Daemon` **-> ON**
 
 2. Download and unzip the [batch files](https://github.com/fischertechnik/txt_repair/archive/master.zip)
 
