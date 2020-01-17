@@ -8,7 +8,7 @@ After update with ROBOPro >=4.4.3
 
 # Solution
 Repair Steps
-1. If TXT version >=4.4.4, please activate SSH in the settings of TXT controller: *Settings -> Arrow down -> Security -> SSH Daemon* **ON**
-2. Download batch files
-3. Execute *0_new_root.bat* to show and write down the root password from TXT controller display, Hint: Please wait 30-60 seconds!
-4. Execute *1_repair_FwUpdTxt.bat* to repair IO firmware of TXT controller
+1. If TXT version >=4.4.4, please activate SSH in the settings of TXT controller: `Settings -> Arrow down -> Security -> SSH Daemon` **ON**
+2. Download and unzip the batch files from https://github.com/fischertechnik/txt_repair/archive/master.zip
+3. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Please wait 30-60 seconds!
+4. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
