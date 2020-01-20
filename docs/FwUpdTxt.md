@@ -14,6 +14,8 @@ Repair Steps
 
 3. Connect TXT Controller via USB
 
-4. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Please wait 30-60 seconds!
+4. Open windows console, e.g. cmd.exe
 
-5. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
+5. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Enter "y" if you see "Update ceched key?" Wait about 30-60 seconds!
+
+6. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
