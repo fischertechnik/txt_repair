@@ -16,6 +16,6 @@ Repair Steps
 
 4. Open windows console, e.g. cmd.exe
 
-5. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Enter "y" if you see "Update ceched key?" Wait about 30-60 seconds!
+5. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Enter "y" if you see "Update cached key?" Wait about 30-60 seconds!
 
 6. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
