@@ -12,6 +12,8 @@ Repair Steps
 
 2. Download and unzip the [batch files](https://github.com/fischertechnik/txt_repair/archive/master.zip)
 
-3. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Please wait 30-60 seconds!
+3. Connect TXT Controller via USB
 
-4. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
+4. Execute `0_new_root.bat` to show and write down the root password from TXT controller display, Hint: Please wait 30-60 seconds!
+
+5. Execute `1_repair_FwUpdTxt.bat` to repair IO firmware of TXT controller
