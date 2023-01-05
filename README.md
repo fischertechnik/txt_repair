@@ -1,6 +1,6 @@
 > If you have any questions, please contact us: fischertechnik-technik@fischer.de
 
-# TXT Repair Batch Files (>= 4.4.3)
+# TXT Repair Batch Files (FW 4.4.3 ... 4.6.6)
 This repository contains batch files to repair the TXT firmware.
 
 > **DO ONLY USE THIS BATCH FILES, IF THE TXT FIRMWARE IS DEFECTIVE!**
